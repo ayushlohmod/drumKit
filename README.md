@@ -1,4 +1,4 @@
-## trick-generator
+## Drum Kit
 A website To play drums in your browser
 ### ⚒️ Languages / Tools
  <table>
