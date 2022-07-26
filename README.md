@@ -40,13 +40,13 @@ Before installation, please make sure you have already installed the following t
 2. Clone the project, you can use the following command:
 
 ```bash
-git clone https://github.com/<your-github-username>/trick-generator
+git clone https://github.com/<your-github-username>/drumkit
 ```
 
 3. Navigate to the project directory
 
 ```bash
-cd trick-generator
+cd drumkit
 ```
 4. Install dependencies with npm install
 
