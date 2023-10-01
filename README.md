@@ -24,9 +24,21 @@ A website To play drums in your browser.
 <br>
     
 
-## 🧑🏾‍💻 Demo
-//Check out the website: )
-in process
+## **Functionalities 🎮**
+
+Game consists of following functionalities :
+
+<ol>
+<li>User can play diffrent drum sounds by the keyboard keys written on the drum</li>
+<li>User can play many sounds at a time</li>
+<li>Diffrent sounds like kick,tom,crash and snare has been included.</li>
+</ol>
+
+## **How to Play? 🕹️**
+
+- See which sound you wanna play on the drum keyboard letter is written.
+- Press that key and boom sound get played.
+- Repeat the above steps with diffrent sounds to play in the rhythm.
 
 ## 👇🏽 Prerequisites
 
